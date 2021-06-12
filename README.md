@@ -8,6 +8,11 @@ A primitive war file that prints out the status of the Payara Micro fabric and d
 mybr1
 .
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ..
 >>>>>>> df24dc5 (2 dots)
+=======
+..
+...
+>>>>>>> 16af498 (3 dots)
