@@ -23,5 +23,9 @@ mybr1
 >>>>>>> 295493c (4 dots)
 =======
 ....
+<<<<<<< HEAD
 .....
 >>>>>>> 7aa489c (5 dots)
+=======
+..... >> .
+>>>>>>> 1286f44 (changed arrows to single direction)
