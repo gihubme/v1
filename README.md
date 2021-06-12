@@ -4,5 +4,10 @@ A primitive war file that prints out the status of the Payara Micro fabric and d
 
 master
 myBr2
+<<<<<<< HEAD
 myBr2
 .
+=======
+.
+..
+>>>>>>> 42da8df (2 dots)
