@@ -6,3 +6,5 @@ myBr3 <<new after merge with br2>>
 myBr2
 .
 ..
+
+master
