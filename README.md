@@ -9,6 +9,7 @@ mybr1
 .
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ..
 >>>>>>> df24dc5 (2 dots)
@@ -29,3 +30,9 @@ mybr1
 =======
 ..... >> .
 >>>>>>> 1286f44 (changed arrows to single direction)
+=======
+..
+...
+....
+..... >> .
+>>>>>>> 1286f440bc6b54b38c466e6cfc1ac9d145d3b2ff
