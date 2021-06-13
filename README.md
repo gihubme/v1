@@ -11,7 +11,11 @@ myBr2
 .
 ..
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 42da8df (2 dots)
 =======
 ...
 >>>>>>> d87b337 (fix comment not 2 dots but 3!!)
+=======
+...
+>>>>>>> 848e93d (2 dots)
